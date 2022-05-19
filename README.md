@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/PokIsemaine?template=classic&config.timezone=Asia%2FShanghai)
-
 
 [![PokIsemaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=PokIsemaine)](https://github.com/anuraghazra/github-readme-stats)![CSDN 数据](https://stats.justsong.cn/api/csdn?id=qq_39354847)
 
