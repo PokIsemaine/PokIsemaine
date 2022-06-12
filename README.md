@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I am the author of [fishjoy]([https://github.com/dtm-labs/dtm](https://github.com/PokIsemaine/fishjoy)) 
+- 👯 I am the author of [fishjoy](https://github.com/PokIsemaine/fishjoy)
 - 📝 Contact me: [Email](851892190@qq.com) 
 
 
