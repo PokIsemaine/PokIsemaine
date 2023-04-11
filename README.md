@@ -7,12 +7,17 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I am the author of [fishjoy](https://github.com/PokIsemaine/fishjoy)
-- 📝 Contact me: [Email](851892190@qq.com) 
+👋 Hi, I’m Zhou Sile
+
+⚡I am studying at North East Forest University (about to graduate in 2024)
+
+👀 I’m interested in C++, Go, JavaScript, TypeScript, React, Vue.
+
+🌱 I'm looking for a summer internship
+
+📫 How to reach me email: zhousile@foxmail.com
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PokIsemaine&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PokIsemaine&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PokIsemaine&theme=github)
+PokIsemaine's GitHub stats
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PokIsemaine&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PokIsemaine&theme=github)
