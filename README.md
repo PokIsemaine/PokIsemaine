@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 
 Internships in software development:
+
 Bytedance | Quality Assurance Intern | 06/2023 - 08/2023，Beijing
+
 Casbin    | OSPP 2023 Student | 01/2023 - 09/2023，Online
 
 
