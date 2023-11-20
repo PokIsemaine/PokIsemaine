@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 📫 How to reach me email: zhousile@foxmail.com
 
 
-Internships in software development:
+**Internships in software development:**
 
 Bytedance | Quality Assurance Intern | 06/2023 - 08/2023，Beijing
 
-Casbin    | OSPP 2023 Student | 01/2023 - 09/2023，Online
+Casbin    | OSPP 2023 Student & Member | 01/2023 - Now，Online
 
 
 PokIsemaine's GitHub stats
