@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Bytedance | Quality Assurance Intern | 06/2023 - 08/2023，Beijing
 
-Casbin    | OSPP 2023 Student & Member | 01/2023 - Now，Online
+Casbin    | OSPP 2023 Student & Member | 01/2023 - 10/2023，Online
 
 
 PokIsemaine's GitHub stats
