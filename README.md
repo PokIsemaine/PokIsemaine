@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me email: zhousile@foxmail.com
 
-**Education:**
-
-NEFU | Software Engineering | 09/2020-06/2024 ,Bachelor Student
-
-NEU(CN) | Computer Science and Technology |  09/2024-??/????, Master Student
-
 
 **Internships in software development:**
 
