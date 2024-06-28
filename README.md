@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Zhou Sile
 
-⚡I am studying at North East Forest University (about to graduate in 2024)
+⚡ Education: NEFU-SE-Bachelor student(2020-2024) => NEU(CN)-CS-Master student(2024-?)
 
 👀 I’m interested in C++, Go, JavaScript, TypeScript, React, Vue.
 
