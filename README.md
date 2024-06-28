@@ -9,13 +9,18 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Zhou Sile
 
-⚡ Education: NEFU-SE-Bachelor student(2020-2024) => NEU(CN)-CS-Master student(2024-?)
 
 👀 I’m interested in C++, Go, JavaScript, TypeScript, React, Vue.
 
 🌱 I'm looking for a online/remote internship
 
 📫 How to reach me email: zhousile@foxmail.com
+
+**Education:**
+
+NEFU | Software Engineering | 09/2020-06/2024 ,Bachelor Student
+
+NEU(CN) | Computer Science and Technology |  09/2024-??/????, Master Student
 
 
 **Internships in software development:**
