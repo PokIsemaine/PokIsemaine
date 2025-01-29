@@ -24,6 +24,7 @@ Bytedance | Quality Assurance Intern | 06/2023 - 08/2023，Beijing
 
 Casbin    | OSPP 2023 Student & Member | 01/2023 - 10/2023，Online
 
+kvrocks   | OSPP 2024 Student & Commiter | 06/2024 - 10/2024，Online
 
 PokIsemaine's GitHub stats
 
