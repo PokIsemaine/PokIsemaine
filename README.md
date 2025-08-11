@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Sile Zhou
 
-:school: B.A. student NEFU-SE 09/2020-06/2024 => M.S. student NEU(CN)-CS 09/2024-??/????
+:school: NEFU-SE 09/2020-06/2024 => NEU(CN)-CS 09/2024-??/????
 
 👀 I’m interested in C++, Go, JavaScript, TypeScript, React, Vue.
 
