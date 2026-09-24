@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 :school: B.E. student NEFU-SE 09/2020-06/2024 => M.E. student NEU(CN)-CS 09/2024-??/????
 
-👀 I’m interested in C++, Go, JavaScript, TypeScript, React, Vue.
+👀 I’m interested in Data X AI [Infra]
 
 🌱 I'm looking for a online/remote internship
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **Internships in software development:**
 
-Bilibili | AI Infra (Data Infra) Intern | 05/2026 - 09/2026,Shanghai
+Bilibili | AI Infra (Data Infra) Intern | 05/2026 - 09/2026, Shanghai
 
 Bytedance | Quality Assurance Intern | 06/2023 - 08/2023，Beijing
 
