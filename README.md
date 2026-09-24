@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 **Internships in software development:**
+
 Bilibili | AI Infra (Data Infra) Intern | 05/2026 - 09/2026,Shanghai
 
 Bytedance | Quality Assurance Intern | 06/2023 - 08/2023，Beijing
